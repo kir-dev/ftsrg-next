@@ -1,0 +1,16 @@
+{
+  "commons.404.title": "404: Nem található az oldal",
+  "commons.404.notFoundText": "A keresett oldal nem található a webhelyen...",
+  "commons.ftsrgFullName": "Kritikus Rendszerek Kutatócsoport",
+  "commons.ftsrgQuote": "„Átültetjük az elméletet a gyakorlatba”",
+  "commons.readMore": "Bővebben",
+  "commons.cookiePolicy.text": "Ez a weboldal sütiket használ a böngészési élmény növelése érdekében.",
+  "commons.cookiePolicy.accept": "Megértettem",
+  "commons.cookiePolicy.decline": "Elutasítom",
+  "commons.cookiePolicy.socialBlocked": "A híreket közösségi média segítségével szolgáljuk ki. Engedélyezd a sütik használatát a megtekintésükhöz!",
+  "commons.cookiePolicy.consentCookies": "Sütik engedélyezése",
+  "footer.contactHero.haveQuestion": "Kérdésed van?",
+  "footer.contactHero.askMe": "A kutatócsoporttal kapcsolatos kérdésekkel keresd <0>Dr. {{lastName}} {{firstName}}t</0>!",
+  "footer.collabWithKirdev": "A weboldal a <1>Kir-Dev</1><0 />együttműködésével készült.",
+  "footer.rightsAndSources": "Minden jog fenntartva | <0>Hozzájárulás kezelése</0> | Sablont a <1>Colorlib</1> biztosítja<2 />Fotók forrásai: <3>Hajdu Ákos</3>, <4>Pexels</4>, <5>Pixabay</5>, <6>SPOT</6> és <7>CERN</7>."
+}

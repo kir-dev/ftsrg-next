@@ -1,0 +1,16 @@
+{
+  "contact.heroTitle": "$t(nav.contact.title)",
+  "contact.heroDesc": "Elérhetőség, térkép és fényképek",
+  "contact.address.title": "Megközelítés",
+  "contact.address.line1": "BME I épület, B szárny 4. emelet",
+  "contact.address.line2": "Magyar tudósok körútja 2.",
+  "contact.address.line3": "1117 Budapest, Magyarország",
+  "contact.address.gpsCoord": "GPS-koordináták: ",
+  "contact.inBuilding.title": "Az épületen belül",
+  "contact.inBuilding.p1": "Az épületbe belépve bal kéz felé a portával szemközti liftekkel fel a 4. emeletre.",
+  "contact.inBuilding.p2": "A liftből kilépve jobbra, majd balra belépve az üvegajtón található a kutatócsoport.",
+  "contact.studentFloor.title": "Hallgatói folyosó",
+  "contact.studentFloor.p1": "Hallgatóinkat várjuk a 4. emeleti folyosón, a kutatócsoport szobáinál kihelyezett asztalokhoz.",
+  "contact.studentFloor.p2": "Itt tanulhatnak, dolgozhatnak az önálló munkájukon vagy pedig konzultálhatnak velünk.",
+  "contact.studentFloor.p3": "A bútorokért köszönet a <0>Schnell Alapítványnak</0>."
+}

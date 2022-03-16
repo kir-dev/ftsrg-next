@@ -1,0 +1,16 @@
+{
+  "commons.404.title": "404: Not found",
+  "commons.404.notFoundText": "You just hit a route that doesn't exist...",
+  "commons.ftsrgFullName": "Critical Systems Research Group",
+  "commons.ftsrgQuote": "„Forging technology from science”",
+  "commons.readMore": "Read more",
+  "commons.cookiePolicy.text": "This website uses cookies to enhance the user experience.",
+  "commons.cookiePolicy.accept": "Accept",
+  "commons.cookiePolicy.decline": "Decline",
+  "commons.cookiePolicy.socialBlocked": "The news are shared via social media. Consent to cookies to see them.",
+  "commons.cookiePolicy.consentCookies": "Consent to cookies",
+  "footer.contactHero.haveQuestion": "Questions not answered?",
+  "footer.contactHero.askMe": "Contact <0>{{firstName}} {{lastName}}</0> with questions related to our research group",
+  "footer.collabWithKirdev": "Website developed in<0 />collaboration with <1>Kir-Dev</1>.",
+  "footer.rightsAndSources": "All rights reserved | <0>Cookie consent</0> | Template by <1>Colorlib</1><2 />Photos taken by <3>Ákos Hajdu</3>, <4>Pexels</4>, <5>Pixabay</5>, <6>SPOT</6> and <7>CERN</7>."
+}

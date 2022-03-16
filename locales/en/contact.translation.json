@@ -1,0 +1,16 @@
+{
+  "contact.heroTitle": "$t(nav.contact.title)",
+  "contact.heroDesc": "How to reach us",
+  "contact.address.title": "Location",
+  "contact.address.line1": "BME Building I, B wing, 4th floor",
+  "contact.address.line2": "Magyar tudósok krt. 2.",
+  "contact.address.line3": "1117 Budapest, Hungary",
+  "contact.address.gpsCoord": "GPS-coordinates: ",
+  "contact.inBuilding.title": "Inside the building",
+  "contact.inBuilding.p1": "Once you enter the building, head to the elevators on the left, and go to the 4th floor.",
+  "contact.inBuilding.p2": "After you exit the elevator, head to the right, and enter the glass door at the end of the corridor.",
+  "contact.studentFloor.title": "Student workspaces",
+  "contact.studentFloor.p1": "Our students are welcome to use the workspaces on the 4th floor near the offices of our group.",
+  "contact.studentFloor.p2": "They can study here, work on their projects or have face to face consultations with their mentors.",
+  "contact.studentFloor.p3": "Thanks for the support of the <0>Schnell Foundation</0>."
+}
